@@ -1,0 +1,10 @@
+C:\Users\DCorpse\source\repos\Helper\Helper\bin\Debug\netstandard2.1\Helper.deps.json
+C:\Users\DCorpse\source\repos\Helper\Helper\bin\Debug\netstandard2.1\Helper.dll
+C:\Users\DCorpse\source\repos\Helper\Helper\bin\Debug\netstandard2.1\Helper.pdb
+C:\Users\DCorpse\source\repos\Helper\Helper\obj\Debug\netstandard2.1\Helper.csproj.AssemblyReference.cache
+C:\Users\DCorpse\source\repos\Helper\Helper\obj\Debug\netstandard2.1\Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DCorpse\source\repos\Helper\Helper\obj\Debug\netstandard2.1\Helper.AssemblyInfoInputs.cache
+C:\Users\DCorpse\source\repos\Helper\Helper\obj\Debug\netstandard2.1\Helper.AssemblyInfo.cs
+C:\Users\DCorpse\source\repos\Helper\Helper\obj\Debug\netstandard2.1\Helper.csproj.CoreCompileInputs.cache
+C:\Users\DCorpse\source\repos\Helper\Helper\obj\Debug\netstandard2.1\Helper.dll
+C:\Users\DCorpse\source\repos\Helper\Helper\obj\Debug\netstandard2.1\Helper.pdb

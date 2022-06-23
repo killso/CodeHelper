@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ElgF+Nr1Qxi9N2bePAZ7s44Nc8ueojW+08E2cxzIh8vaAQbDN4H2PVdlwnJ73drTDouARcbuFNYabYppw1XIIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DCorpse\\source\\repos\\Codehelper.WebServer\\Codehelper.WebServer\\Codehelper.WebServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DCorpse\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\DCorpse\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\DCorpse\\.nuget\\packages\\mysqlconnector\\2.1.10\\mysqlconnector.2.1.10.nupkg.sha512",
+    "C:\\Users\\DCorpse\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\DCorpse\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\DCorpse\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\DCorpse\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

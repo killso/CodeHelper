@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ca23878f-c8c4-45ea-a6f3-a107e860e912": {
+      "ProjectGuid": "ca23878f-c8c4-45ea-a6f3-a107e860e912",
+      "DisplayName": "CodeHelper.Service",
+      "ColorIndex": 0
+    },
+    "a53108dc-e226-4ba6-9e23-01cb9520bb49": {
+      "ProjectGuid": "a53108dc-e226-4ba6-9e23-01cb9520bb49",
+      "DisplayName": "CodeHelper.Speech",
+      "ColorIndex": 1
+    },
+    "f7d56272-33c5-4886-8e9e-91b824a3ceaa": {
+      "ProjectGuid": "f7d56272-33c5-4886-8e9e-91b824a3ceaa",
+      "DisplayName": "CodeHelper.Service",
+      "ColorIndex": 2
+    },
+    "bb96107f-9fec-4c71-9468-d60a0725b142": {
+      "ProjectGuid": "bb96107f-9fec-4c71-9468-d60a0725b142",
+      "DisplayName": "VSIXProject",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

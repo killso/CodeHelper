@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Helper">
+      <HintPath>..\..\..\..\..\source\repos\Helper\Helper\bin\Debug\netstandard2.1\Helper.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
